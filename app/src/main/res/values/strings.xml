@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">Wifisocket</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ip">IP</string>
+    <string name="port">PORT</string>
+    <string name="button1">Connect!</string>
+    <string name="button2">Disconnect!</string>
+    <string name="button3">Set Server!</string>
+    <string name="button4">close Server!</string>
+    <string name="button5">내 IP 주소보기</string>
+    <string name="button6">이미지 전송</string>
+</resources>
